@@ -87,3 +87,8 @@ Does not work when:
 - Questions are randomized
 
 This is because this program uses the original question order and answer order, so if these are randomized the wrong answer will be clicked.
+
+## Contributors
+* [Raymo111](https://github.com/Raymo111) - Fixing it, adding 2FA and search by ID
+* [reteps](https://github.com/reteps) - Main programming
+* [idiidk](https://github.com/idiidk) - For the challenge decoding
